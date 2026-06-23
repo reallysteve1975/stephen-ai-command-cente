@@ -6,4 +6,4 @@ st.title("Stephen AI Command Center")
 
 st.write("Welcome Stephen.")
 
-st.write("This is Version 1 of 
+ st.write("This is version 1 of the command center.")
